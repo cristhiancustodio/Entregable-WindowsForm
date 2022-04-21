@@ -1,0 +1,13 @@
+F:\VisualStudio22\FormColegio\FormColegio\obj\Debug\FormColegio.csproj.AssemblyReference.cache
+F:\VisualStudio22\FormColegio\FormColegio\obj\Debug\FormColegio.csproj.SuggestedBindingRedirects.cache
+F:\VisualStudio22\FormColegio\FormColegio\obj\Debug\FormColegio.gui.main.resources
+F:\VisualStudio22\FormColegio\FormColegio\obj\Debug\FormColegio.Properties.Resources.resources
+F:\VisualStudio22\FormColegio\FormColegio\obj\Debug\FormColegio.csproj.GenerateResource.cache
+F:\VisualStudio22\FormColegio\FormColegio\obj\Debug\FormColegio.csproj.CoreCompileInputs.cache
+F:\VisualStudio22\FormColegio\FormColegio\bin\Debug\FormColegio.exe.config
+F:\VisualStudio22\FormColegio\FormColegio\bin\Debug\FormColegio.exe
+F:\VisualStudio22\FormColegio\FormColegio\bin\Debug\FormColegio.pdb
+F:\VisualStudio22\FormColegio\FormColegio\obj\Debug\FormColegio.exe
+F:\VisualStudio22\FormColegio\FormColegio\obj\Debug\FormColegio.pdb
+F:\VisualStudio22\FormColegio\FormColegio\obj\Debug\FormColegio.gui.profesores.resources
+F:\VisualStudio22\FormColegio\FormColegio\obj\Debug\FormColegio.gui.curso.resources
