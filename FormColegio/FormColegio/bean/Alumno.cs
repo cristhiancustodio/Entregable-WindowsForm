@@ -58,7 +58,7 @@ namespace FormColegio.bean
             Comentario = dataRow["observacion"].ToString();
 
         }
-        // ya no es necesario el get, automaticamente llamando a nuestra varible y se retorna el valor
+
         
 }
 }
