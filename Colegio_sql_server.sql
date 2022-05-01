@@ -61,9 +61,6 @@ create table CLASES(
 	on delete cascade
 );
 GO
-insert into alumnos values
-(13054,'Cristhian','Eduardo','Custodio','Hinostroza',null,'946284103','av.Peru','cryis_06@hotmail.com','2000/03/06',null),
-(13999,'Miguel',null,'Alvarez','Fernandez',null,'975364844','Av.Colonial','Miguel_Alvarez@hotmail.com','1999/05/12',null)
 
 insert into cursos values
 ('C-001','Matematica'),
@@ -72,7 +69,7 @@ insert into cursos values
 ('C-004','Historia'),
 ('C-005','Ciencias'),
 ('C-006','Ingles'),
-('C-007','Educación Fisica'),
+('C-007','Educaciï¿½n Fisica'),
 ('C-008','Civica')
  
 insert into profesores values
@@ -96,10 +93,6 @@ insert into curso_profe values
 ('P30','S14','C-007')
 
 
-insert into clases values
-(13054,'B14'),
-(13999,'C16')
-go
 
 /*Procedimientos almacenados*/
 
@@ -286,4 +279,3 @@ as
 	inner join CURSOS on CURSOS.cod_curso = CURSO_PROFE.cod_curso
 go
 
-execute sp_verClaseAlumno
